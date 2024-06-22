@@ -4,7 +4,7 @@ import { Icon } from "Icons";
 function Auth() {
 
     const user = {
-        name: 'Rupkatha Ray',
+        name: 'Riya Keshri',
         avatar: 'https://i.scdn.co/image/ab6775700000ee856fca122911ed9eec4ce60c1e'
     }
 
